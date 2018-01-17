@@ -1,0 +1,8 @@
+NumUnderX,Pick a number under 18,18,
+NumBetweenXY,Pick a number in range 35 - 45,35,45,
+NumFollowingX,Pick the number followed by 76,76,
+DivisionInX,Pick a number that divides by 3,3,
+Multiplication,Collect a number that is a multiple of 5,5,
+SquareRoot,Pick a number that has a square root,
+DivisionWithReminder,Pick a number that divides by 10 with 2 reminder,10,2,
+squareOfX,Pick the square of 13,13,

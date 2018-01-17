@@ -1,0 +1,25 @@
+﻿  Utilities.cpp
+  TheSnakesGame.cpp
+c:\users\yonat\desktop\final- part 2\05.1.2017\snakeproject\snakeproject\thesnakesgame.cpp(48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Snake.cpp
+  Shot.cpp
+c:\users\yonat\desktop\final- part 2\05.1.2017\snakeproject\snakeproject\shot.cpp(19): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Point.cpp
+  Mission.cpp
+c:\users\yonat\desktop\final- part 2\05.1.2017\snakeproject\snakeproject\mission.cpp(57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\yonat\desktop\final- part 2\05.1.2017\snakeproject\snakeproject\mission.cpp(68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\yonat\desktop\final- part 2\05.1.2017\snakeproject\snakeproject\mission.cpp(244): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Gotoxy.cpp
+  Game.cpp
+c:\users\yonat\desktop\final- part 2\05.1.2017\snakeproject\snakeproject\game.cpp(34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\yonat\desktop\final- part 2\05.1.2017\snakeproject\snakeproject\game.cpp(81): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\yonat\desktop\final- part 2\05.1.2017\snakeproject\snakeproject\game.cpp(98): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\yonat\desktop\final- part 2\05.1.2017\snakeproject\snakeproject\game.cpp(125): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\yonat\desktop\final- part 2\05.1.2017\snakeproject\snakeproject\game.cpp(157): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\yonat\desktop\final- part 2\05.1.2017\snakeproject\snakeproject\game.cpp(229): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\yonat\desktop\final- part 2\05.1.2017\snakeproject\snakeproject\game.cpp(252): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Board.cpp
+  Generating Code...
+  SnakeProject.vcxproj -> C:\Users\yonat\Desktop\Final- part 2\05.1.2017\SnakeProject\x64\Debug\SnakeProject.exe
+  SnakeProject.vcxproj -> C:\Users\yonat\Desktop\Final- part 2\05.1.2017\SnakeProject\x64\Debug\SnakeProject.pdb (Full PDB)
